@@ -1,0 +1,5 @@
+pylint 
+mypy 
+pytest 
+bcrypt
+pytest-cov
