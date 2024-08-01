@@ -1,5 +1,6 @@
 
 ## Jogo da Forca
+<img src="https://img.freepik.com/vetores-premium/fundo-isolado-do-jogo-da-forca_764382-4988.jpg" alt="boneco na forca" width="200px"/>
 
 
 ### Links Úteis:
